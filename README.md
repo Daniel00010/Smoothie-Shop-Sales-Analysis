@@ -1,0 +1,1 @@
+Analyzed simulated sales data from a smoothie shop using Google Sheets. Created a dashboard with pivot tables and bar charts to identify top-selling drinks, peak sales hours, and total revenue. This project showcases data organization, analysis, and visualization skills using spreadsheet tools.
